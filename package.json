@@ -1,0 +1,29 @@
+{
+  "name": "first-express-app",
+  "version": "1.0.0",
+  "description": "First Express App without generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HimanshuHD/First-Express-App.git"
+  },
+  "keywords": [
+    "first",
+    "node",
+    "express",
+    "app",
+    "js"
+  ],
+  "author": "Himanshu Digari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HimanshuHD/First-Express-App/issues"
+  },
+  "homepage": "https://github.com/HimanshuHD/First-Express-App#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
